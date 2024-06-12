@@ -3,6 +3,7 @@
 version - Luminosity
 
 ![skyline web app](skyline.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVictorPronchev%2Fskyline.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FVictorPronchev%2Fskyline?ref=badge_shield)
 
 Skyline is a near real time anomaly detection system, built to enable
 passive monitoring of hundreds of thousands of metrics, without the need
@@ -41,3 +42,7 @@ the Skyline Webapp frontend.
 ## Other
 
 https://gitter.im/earthgecko-skyline/Lobby
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVictorPronchev%2Fskyline.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FVictorPronchev%2Fskyline?ref=badge_large)
